@@ -1,0 +1,52 @@
+.header{
+	text-align: center;
+	background-color: blue;
+	min-height: 80px:;
+	font-size: 50px;
+}
+.container{
+	overflow: hidden;
+}
+
+.html{background-color:black;
+color: white;
+width: 25%;
+min-height: 70px;
+float: left;
+/*padding: 5px;*/}
+
+.BOOTSTRAP{background-color:red;
+width: 25%;min-height: 70px; 
+float: left;
+}
+
+.PHP-MYSQL{background-color:yellowgreen;
+width: 25%;min-height: 70px;
+float: left;}
+
+.FREELANCING{background-color:firebrick;
+width: 25%;min-height: 70px;
+float: left;}
+
+
+
+
+/*about.html*/
+
+
+.about{overflow: hidden;
+}
+
+.photo img{ 
+	float: left;
+	width: 400px;
+	height: auto;
+
+}
+.descrption{ 
+	background-color:antiquewhite;
+	float: right;
+	width: 70%;
+	height: auto;
+	padding: 10px;}
+	
